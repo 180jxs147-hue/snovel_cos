@@ -1,1 +1,0 @@
-# snovel_cos
